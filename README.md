@@ -1,2 +1,3 @@
 # Parallax-Effect-website.
-In this project ,  a new approach to make ; 
+In this project ,  a new approach to make such websites
+
