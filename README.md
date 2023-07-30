@@ -1,3 +1,4 @@
 # Parallax-Effect-website.
-In this project ,  a new approach to make such websites
+In this project ,  a new approach to make website with parallax effect
+
 
